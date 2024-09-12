@@ -1,0 +1,25 @@
+@media (max-width:34rem) {
+  #feather-calculator {
+    min-height: 1400px;
+    max-height: 1500px
+  }
+}
+
+@media (min-width:45rem) {
+  #feather-calculator {
+    max-height: 1000px
+  }
+}
+
+@media (min-width:56rem) and (max-width:68.75rem) {
+  #feather-calculator {
+    min-height: 1100px;
+    max-height: 1200px
+  }
+}
+
+@media (min-width:64rem) {
+  #feather-calculator {
+    max-height: 600px
+  }
+}
